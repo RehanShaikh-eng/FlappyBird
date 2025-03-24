@@ -1,5 +1,5 @@
-Flappy Bird Clone 🐦🎮
-This is a Flappy Bird clone built using Java Swing. The game features a simple 2D UI, where the player controls a bird and navigates through obstacles by pressing the spacebar to flap.
+Flappy Bird 🐦
+🎮 This is a Flappy Bird built using Java Swing. The game features a simple 2D UI, where the player controls a bird and navigates through obstacles by pressing the spacebar to flap.
 
 ✨ Features:
 Smooth Gameplay: Uses a game loop (Timer) for consistent frame updates.
